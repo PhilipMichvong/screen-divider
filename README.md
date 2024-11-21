@@ -121,9 +121,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 ## **Screenshots**
-![screen1](/assets/1.png)
-![screen2](/assets/2.png)
-![screen3](/assets/3.png)
+![screen1](1.png)
+![screen2](2.png)
+![screen3](3.png)
 
 ---
 
